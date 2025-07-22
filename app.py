@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Set your NewsAPI key here
-API_KEY = "YOUR_NEWSAPI_KEY"
+API_KEY = "3adb597335b3456b896666fa9a244786"
 
 # Base URL for NewsAPI
 BASE_URL = "https://newsapi.org/v2/top-headlines"
